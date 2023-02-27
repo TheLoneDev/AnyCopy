@@ -14,7 +14,7 @@
 #define BTN_ID_CANCEL 0x691
 #define TIMER_ID_DELAY 0x420
 #define TIMER_ID_PASTE 0x421
-#define PASTE_DELAY 100
+#define PASTE_DELAY 50
 #define STATUSTXT_READY "Ready"
 #define STATUSTXT_WAITING "Waiting delay"
 #define STATUSTXT_PASTING "Pasting"
