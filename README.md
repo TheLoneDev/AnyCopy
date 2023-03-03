@@ -8,4 +8,4 @@ Just put the text in the textbox and click **start** !
 
 ## Download
 
-[Download x64](https://github.com/TheLoneDev/AnyCopy/releases/download/1.0/AnyCopy.exe)
+[Download x64](https://github.com/TheLoneDev/AnyCopy/releases/download/1.1/AnyCopy.exe)
